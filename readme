@@ -1,0 +1,8 @@
+Mais uma do "É simples mas o trabalho é honesto" kkkk
+
+Você já se deparou com a situação de ter uma pasta repleta de arquivos XML contendo informações cruciais que precisam ser analisadas, extraídas ou armazenadas? O processo manual pode ser demorado e propenso a erros.
+Por que não considerar a automação desse procedimento?
+
+Hoje pratiquei um exercício no qual desenvolvemos um código capaz de analisar qualquer tipo de arquivo XML dentro de uma pasta específica. Ao finalizar a análise, o código organiza as informações desejadas e as compila em uma planilha, proporcionando uma maneira eficiente de acelerar o seu trabalho.
+
+Atualmente, o código gera um arquivo Excel, mas também pode ser adaptado para alimentar um banco de dados, proporcionando flexibilidade conforme as necessidades do usuário.
